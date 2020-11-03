@@ -2,9 +2,9 @@
 
 - 💾 Currently working on [Meshi project](https://github.com/AGH-Narzedzia-Informatyczne/meshi)
 
-- 💻 Computer Science student
+- 💻 Computer Science student (AGH University of Science and Technology)
 
-- 📌 Southern Poland
+- 📌 Rzeszów, Poland
 
 - 💬 Ask me about anything!
 <!--
