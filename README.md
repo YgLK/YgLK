@@ -1,13 +1,15 @@
 ### Hi there 👋 👀 
-[My GitHub Page](https://yglk.github.io/)
 
-- 💾 Currently working on [Meshi project](https://github.com/AGH-Narzedzia-Informatyczne/meshi)
+<!-- - 💾 Currently working on [Meshi project](https://github.com/AGH-Narzedzia-Informatyczne/meshi) -->
 
 - 💻 Computer Science student (AGH University of Science and Technology)
 
 - 📌 Rzeszów, Poland
 
-- 💬 Ask me about anything!
+<!-- - 💬 Feel free to ask me about anything! -->
+
+[My GitHub Page](https://yglk.github.io/)
+
 <!--
 **YgLK/YgLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Fork SkyAR repository](https://github.com/YgLK/SkyAR)
+<!-- [Fork SkyAR repository](https://github.com/YgLK/SkyAR) -->
