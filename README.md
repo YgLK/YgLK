@@ -2,7 +2,7 @@
 
 <!-- - 💾 Currently working on [Meshi project](https://github.com/AGH-Narzedzia-Informatyczne/meshi) -->
 
-- 💻 Computer Science student (AGH University of Science and Technology)
+- 💻 Computer Science and Intelligent Systems student (AGH University of Science and Technology)
 
 - 📌 Rzeszów, Poland
 
