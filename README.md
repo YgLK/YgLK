@@ -4,7 +4,7 @@
 
 - 💻 Computer Science and Intelligent Systems student (AGH University of Science and Technology)
 
-- 📌 Rzeszów, Poland
+- 📌 Kraków/Rzeszów, Poland
 
 <!-- - 💬 Feel free to ask me about anything! -->
 
