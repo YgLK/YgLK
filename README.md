@@ -1,14 +1,18 @@
-### Hi there 👋 👀 
+### Hi there 👋
 
 <!-- - 💾 Currently working on [Meshi project](https://github.com/AGH-Narzedzia-Informatyczne/meshi) -->
-
+  
 - 💻 Computer Science and Intelligent Systems student (AGH University of Science and Technology)
 
-- 📌 Kraków/Rzeszów, Poland
+- 📌 Cracow, Poland
 
 <!-- - 💬 Feel free to ask me about anything! -->
 
-[My GitHub Page](https://yglk.github.io/)
+<!-- [My GitHub Page](https://yglk.github.io/)
+ -->
+
+![YgLK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgLK&show_icons=true&theme=vue)
+
 
 <!--
 **YgLK/YgLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
