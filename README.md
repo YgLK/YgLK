@@ -6,6 +6,7 @@
 
 - 📌 Cracow, Poland
 
+- View my [English CV](https://github.com/YgLK/YgLK/blob/main/Jszpunar-Resume%20ENG.pdf) / [Polish CV](https://github.com/YgLK/YgLK/blob/main/Jszpunar-Resume%20PL.pdf)
 <!-- - 💬 Feel free to ask me about anything! -->
 
 <!-- [My GitHub Page](https://yglk.github.io/)
